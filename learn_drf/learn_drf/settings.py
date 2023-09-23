@@ -132,5 +132,3 @@ STATIC_URL = 'static/'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 
-# curl -X GET http://127.0.0.1:8000/ -H 'Authorization: Token b310d07be1844b8cae262330a8ad5af3d053ca8c'
-# curl --header "Token: b310d07be1844b8cae262330a8ad5af3d053ca8c" --data "test=test" http://127.0.0.1:8000/
